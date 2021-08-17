@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    min-width: 840px;
+    min-height: 480px;
+    background-color: rgba(33, 39, 50, 0.2);
+}
+
+.fixedHead {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0% 27%;
+    padding: 6px 0px;
+}
+.back-head {
+    background-color: rgba(33, 39, 50, 0.3);
+    border-bottom: 3px solid black;
+    width: 100%;
+    height: 5vh;
+    position: fixed;
+    align-items: center;
+    z-index: 6;
+}
+.fixedHead img{
+    height: 4vh; 
+    object-fit: contain;
+}
+
+.nav-list li a{
+    width: 100%;
+    text-decoration: none;
+    color: black;
+    align-items: center;
+}
+.nav-list li a:hover {
+    color: white;
+    transition: 0.5s;
+}
+.nav-list li {
+    list-style: none;
+    display: inline-block;
+    padding-left: 20px;
+}
+.search {
+    height: 3vh;
+    width: 25vh;
+}
+.search-box {
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+    border-radius: 50px;
+    background: transparent;
+    font-size: 20px;
+    padding-left: 40px;
+    background-image: url("images/search_filled_30px.png");
+    background-repeat: no-repeat;
+    
+}
+.content {
+    width: 100vh;
+    background-color: rgb(255, 255, 255);
+    margin: 0% 27%;
+    position: absolute;
+    top: 5vh;
+}
+.box {
+    width: 33.33vh;
+    height: 33.33vh;
+    background-color: rgba(33, 39, 50, 0.2);
+    float: left;
+    display: flex;
+    align-items: center;
+}
+
+.content-box {
+    width: 90%;
+    height: 90%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    font-size: 40px;
+}
+.content-box img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.left-sidebar {
+    width: 23%;
+    height: 100vh;
+    position: fixed;
+    margin: 5vh 0vh 0vh 0vh;
+    background-color: rgba(33, 39, 50, 0.2);
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+}
+.right-sidebar {
+    right: 0;
+    width: 23%;
+    height: 100vh;
+    position: fixed;
+    margin: 5vh 0vh 0vh 0vh;
+    background-color: rgba(33, 39, 50, 0.2);
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+}
