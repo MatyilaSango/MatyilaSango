@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatyilaSango
-- 👀 I’m interested in software development.
 -  I am currently a junior software developer.
-- 🌱 I’m currently learning computer networks, machine learning, and computer programming. 
+- 🌱 I did computer networks, machine learning, operating systems, HCI, and software engineering. 
+- 👀 I’m interested in software development. 
 - 💞️ I make computer programs using java, and python language.
 - Website and webapp using HTML and CSS, or React JS.
 - 📫 You can reach me through my email address: matyila2sango@gmail.com.
