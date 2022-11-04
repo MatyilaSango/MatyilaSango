@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatyilaSango
--  I am currently a junior software developer.
+-  I am a computer science graduate.
 - 🌱 I did computer networks, machine learning, operating systems, HCI, and software engineering. 
 - 👀 I’m interested in software development. 
 - 💞️ I make computer programs using java, and python language.
