@@ -1,8 +1,10 @@
 # 💫 About Me:
-- I made media app and a weather application. [Reddder](http://reddder.vercel.app/) [GW-Sango](https://gw-sango.vercel.app/)<br><br>
-- 👨‍💻 All of my projects are available at [repositories](https://github.com/MatyilaSango?tab=repositories).<br><br>
-- 🌱 I’m currently learning **Frameworks, courses, etc.**<br><br>- 💬 Ask me about **Anything**<br><br>
-- 📫 How to reach me **Matyila2sango@gmail.com**<br><br>- ⚡ Fun fact **I like SCIFI movies/series.**
+- I made media app and a weather application. [Reddder](http://reddder.vercel.app/) [GW-Sango](https://gw-sango.vercel.app/)<br>
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/MatyilaSango?tab=repositories).<br>
+- 🌱 I’m currently learning **Frameworks, courses, etc.**<br>
+- 💬 Ask me about **Anything**<br>
+- 📫 How to reach me **Matyila2sango@gmail.com**<br>
+- ⚡ Fun fact **I like SCIFI movies/series.**
 
 
 ## 🌐 Socials:
