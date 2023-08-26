@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Frameworks, courses, etc.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MatyilaSango?tab=repositories](https://github.com/MatyilaSango?tab=repositories)
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/MatyilaSango?tab=repositories).
 
 - 💬 Ask me about **Anything**
 
