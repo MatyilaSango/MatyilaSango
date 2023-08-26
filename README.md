@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matyilasango" alt="matyilasango" /></a> </p>
 
 - I worked on media app. [Reddder](https://github.com/MatyilaSango/reddder)
+- Created a weather applicatio. [GW-Sango](https://gw-sango.vercel.app/)
 
 - 🌱 I’m currently learning **Frameworks, courses, etc.**
 
