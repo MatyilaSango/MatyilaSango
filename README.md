@@ -1,5 +1,6 @@
 # 💫 About Me:
-- I made media app and a weather application. [Reddder](http://reddder.vercel.app/) [GW-Sango](https://gw-sango.vercel.app/)<br>
+- Software developer
+- I developed a media app [Reddder](http://reddder.vercel.app/) and a weather application [GW-Sango](https://gw-sango.vercel.app/)<br>
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/MatyilaSango?tab=repositories).<br>
 - 🌱 I’m currently learning **Frameworks, courses, etc.**<br>
 - 💬 Ask me about **Anything**<br>
