@@ -2,7 +2,7 @@
 - Software Developer
 - I developed a media app [Reddder](http://reddder.vercel.app/), a weather application [GW-Weather](https://gw-weather.vercel.app/), and other projects available in my repos.<br>
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/MatyilaSango?tab=repositories).<br>
-- 🌱 My interest is **Game development, AI, and VR.**<br>
+- 🌱 My interest is **Software development, AI, and VR.**<br>
 - 💬 Ask me about **Anything**<br>
 - 📫 How to reach me **Matyila2sango@gmail.com**<br>
 - ⚡ Fun fact **I like SCIFI movies/series.** I believe that's where technological ideas and inspiration come from, at least for me.
